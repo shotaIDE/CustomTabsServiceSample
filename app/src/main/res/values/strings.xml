@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomTabsServiceSample</string>
+    <string name="menu_item_sample1">ブックマーク</string>
+    <string name="menu_item_sample2">設定</string>
+</resources>
